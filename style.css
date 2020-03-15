@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    background: rgb(106, 141, 207);
+    background: radial-gradient(circle, rgba(106, 141, 207, 1) 46%, rgba(130, 130, 130, 1) 100%);
+}
